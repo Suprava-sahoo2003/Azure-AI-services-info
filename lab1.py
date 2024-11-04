@@ -1,3 +1,8 @@
+#this is env file
+
+AI_SERVICE_ENDPOINT='https://xxxxxxxazure.cognitiveservices.azure.com/'
+AI_SERVICE_KEY='DxxxxxxxxFnNrPjRy3o0urZ3cdAB5OIX73d8prTm4oaorXl78BYqJQQJ99AKACYeBjFXJ3w3AAAAACOGqFUd'
+
 #THIS CODE FOR REST CLIENT API
 from dotenv import load_dotenv
 import os
