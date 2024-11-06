@@ -1,7 +1,7 @@
 #This for env file
 AI_SERVICE_ENDPOINT='https://xxxxxxxxxxxx.cognitiveservices.azure.com/'
 AI_SERVICE_KEY='xxxxxxxxZAgoECf3RJh8xg2c49nS2gtNv880fNNANceVtWvzHmeWJQQJ99AKACYeBjFXJ3w3AAAAACOGc8qL'
-This for 
+#This code for read text image 
 from dotenv import load_dotenv
 import os
 import time
